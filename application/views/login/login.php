@@ -26,7 +26,7 @@
 
   <script src="<?php echo base_url() ?>assets/js/jquery.min.js"></script>
   <script src="<?php echo base_url() ?>assets/js/semantic.js"></script>
-  
+
   <script>
   $(document).ready(function() {
     $('.ui.form').form({
@@ -85,13 +85,11 @@
                         <input type="password" name="password" placeholder="Password">
                       </div>
                   </div>
-
                   <div class="ui fluid large teal submit button">Login</div>
               </div>
 
               <div class="ui error message"></div>
           </form>
-
           <div class="ui message">
               New to us? <a href="">Sign Up</a>
           </div>
