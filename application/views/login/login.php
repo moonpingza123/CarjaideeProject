@@ -68,7 +68,7 @@
       <div class="column">
           <h2 class="ui teal image header">
               <div class="content">
-                  Log-in to your account
+                  <i class="car big icon"></i>
               </div>
           </h2>
           <form class="ui large form">
@@ -86,6 +86,19 @@
                       </div>
                   </div>
                   <div class="ui fluid large teal submit button">Login</div>
+                  <div class="ui horizontal divider">
+                    Or
+                  </div>
+                  <div class="field">
+                      <button class="ui facebook button">
+                        <i class="facebook icon"></i>
+                        Facebook
+                      </button>
+                      <button class="ui youtube button">
+                        <i class="google plus icon"></i>
+                        G-mail
+                      </button>
+                  </div>
               </div>
 
               <div class="ui error message"></div>

@@ -171,9 +171,10 @@
   </div>
 
   <!-- <div class="ui inverted vertical menu"> -->
-   <div class="ui large top fixed menu transition hidden">
+  <div class="ui vertical inverted sticky menu" >
+   <!-- <div class="ui large top fixed menu transition hidden"> -->
     <div class="ui container">
-      <a class="active item">Home</a>
+      <a class="item">Home</a>
       <a class="item">Work</a>
       <a class="item">Company</a>
       <a class="item">Careers</a>
